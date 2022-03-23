@@ -1,5 +1,5 @@
 <template>
-    <aside>
-        
+    <aside class="position-fixed">
+
     </aside>
 </template>
